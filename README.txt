@@ -1,0 +1,1 @@
+This script generated logo on my profile.
